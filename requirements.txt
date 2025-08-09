@@ -1,6 +1,9 @@
 streamlit
 openai
 apscheduler
-pandas
-python-dotenv
 requests
+pandas
+groq
+python-dotenv
+APScheduler
+
