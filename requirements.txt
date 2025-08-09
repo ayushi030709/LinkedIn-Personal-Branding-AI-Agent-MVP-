@@ -1,0 +1,6 @@
+streamlit
+openai
+apscheduler
+pandas
+python-dotenv
+requests
